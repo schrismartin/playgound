@@ -4,14 +4,13 @@
         <page name='Ring Builder'/>
         <page name='GradeDisplay'/>
         <page name='Value Semantics'/>
-        <page name='Metova Question'/>
+        <page name='Interview Question'/>
         <page name='Time Interval Formatter'/>
         <page name='Mod Explorer'/>
         <page name='RegularExpressions'/>
         <page name='SquareRoot'/>
         <page name='Fraction'/>
         <page name='DataTask'/>
-        <page name='Reflection'/>
         <page name='Extensions'/>
         <page name='String Splitting'/>
         <page name='Testing'/>
