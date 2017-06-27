@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<playground version='6.0' target-platform='ios'>
+    <pages>
+        <page name='Ring Builder'/>
+        <page name='GradeDisplay'/>
+        <page name='Value Semantics'/>
+        <page name='Metova Question'/>
+        <page name='Time Interval Formatter'/>
+        <page name='Mod Explorer'/>
+        <page name='RegularExpressions'/>
+        <page name='SquareRoot'/>
+        <page name='Fraction'/>
+        <page name='DataTask'/>
+        <page name='Reflection'/>
+        <page name='Extensions'/>
+        <page name='String Splitting'/>
+        <page name='Testing'/>
+        <page name='Flatmap'/>
+        <page name='FunctionalProgramming'/>
+        <page name='Generics'/>
+        <page name='LinkedList'/>
+    </pages>
+</playground>
